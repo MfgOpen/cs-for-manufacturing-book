@@ -202,3 +202,5 @@ dist/
 # Temporary folders
 tmp/
 temp/
+
+book/
