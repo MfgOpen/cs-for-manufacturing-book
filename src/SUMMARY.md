@@ -19,3 +19,7 @@
 - [Rust](ch03-00-rust.md)
     - [Installation](ch03-01-installation.md)
 
+## C#
+
+- [C#](ch04-00-csharp.md)
+    - [Installation](ch04-01-installation.md)
