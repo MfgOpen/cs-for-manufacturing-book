@@ -4,6 +4,13 @@
 [Foreword](foreword.md)
 [Introduction](ch00-00-introduction.md)
 
+## Getting Started
+
+-   [Getting Started](ch00-00-getting-started.md)
+    -   [Code Editor](ch00-01-code-editor.md)
+    -   [Git](ch00-02-git.md)
+    -   [Docker](ch00-03-docker.md)
+
 ## Julia
 
 -   [Julia](ch01-00-julia.md)
