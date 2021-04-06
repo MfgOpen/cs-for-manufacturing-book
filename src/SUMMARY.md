@@ -32,3 +32,10 @@
     -   [Installation](ch04-01-installation.md)
     -   [Other Learning Resources](ch04-02-other-learning-resources.md)
     -   [Basics](ch04-03-basics.md)
+
+## TypeScript
+
+-   [TypeScript](ch05-00-typescript.md)
+    -   [Installation](ch05-01-installation.md)
+    -   [Other Learning Resources](ch05-02-other-learning-resources.md)
+    -   [Basics](ch05-03-basics.md)
